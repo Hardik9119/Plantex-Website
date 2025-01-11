@@ -1,5 +1,4 @@
 # Responsive Plants Website 🎍 
-## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
 ### Responsive Plants Website 🎍
 
 - Responsive Plants Website Using HTML, CSS and JavaScript.
